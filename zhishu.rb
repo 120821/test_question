@@ -39,4 +39,4 @@ def printZhishu(n)
   return result
 end
 
-puts printZhishu(97)
+puts printZhishu(1)

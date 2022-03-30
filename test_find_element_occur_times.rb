@@ -1,5 +1,3 @@
-
-
 def print_occur_times some_array
 
   temp = {}

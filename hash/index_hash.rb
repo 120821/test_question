@@ -1,4 +1,4 @@
- show_my_array(element_index dei= nil)
+def show_my_array(element_index dei= nil)
   my_array = [1,2,3,"aa","bb",877]
 
   if element_index == nil
